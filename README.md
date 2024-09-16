@@ -1,2 +1,2 @@
 # Infinix-Gaming
-A responsive website on Gaming
+A Trusted website on Gaming
